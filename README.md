@@ -42,12 +42,12 @@
 
 ### Git Stats
 
-[![Mokobake' GitHub stats](https://github-readme-stats.vercel.app/api?username=Mokobake&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)](https://github.com/Im-Rises)
+[![Mokobake' GitHub stats](https://github-readme-stats.vercel.app/api?username=Mokobake&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)](https://github.com/Mokobake)
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mokobake&show_icons=true&count_private=true&theme=tokyonight">-->
 
 ### Programming stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mokobake&langs_count=10&hide=Objective-C,html,css,shaderlab,glsl,cmake,hlsl,dart&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Im-Rises?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mokobake&langs_count=10&hide=Objective-C,html,css,shaderlab,glsl,cmake,hlsl,dart&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Mokobake?tab=repositories)
 
 ## Currently learning
 
