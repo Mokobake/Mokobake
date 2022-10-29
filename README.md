@@ -42,7 +42,7 @@
 
 ### Git Stats
 
-[![Im-Rises' GitHub stats](https://github-readme-stats.vercel.app/api?username=Mokobake&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)](https://github.com/Im-Rises)
+[![Mokobake' GitHub stats](https://github-readme-stats.vercel.app/api?username=Mokobake&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)](https://github.com/Im-Rises)
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mokobake&show_icons=true&count_private=true&theme=tokyonight">-->
 
 ### Programming stats
@@ -52,7 +52,6 @@
 ## Currently learning
 
 - Game Development
-- OpenGL
 - Kernel Development
 
 ## How to Contact me 📫
