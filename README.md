@@ -28,7 +28,7 @@
 
 ### Github commits
 
-<a href="http://www.github.com/Im-Rises"><img src="https://activity-graph.herokuapp.com/graph?username=Mokobake&bg_color=1a1b27&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Mokobake"><img src="https://activity-graph.herokuapp.com/graph?username=Mokobake&bg_color=1a1b27&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### Github Profile Trophy 🏆
 
