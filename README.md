@@ -3,8 +3,8 @@
 
 ## About Me 
 
-- Hi, I am a Japanese Cheat Paster.  
-- I love Hacking, Cheating.
+- Hi, I am a Japanese.
+- I love Hacking.
 - You can find some of my work I did for just for fun.
 
 ## Stats
