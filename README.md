@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </p>
 
-### Github Profile Trophy 🏆
+### GitHub Profile Trophy 🏆
 
 <a href="https://github.com/Mokobake?tab=repositories">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Mokobake&column=8&theme=gruvbox&no-frame=true"/>
