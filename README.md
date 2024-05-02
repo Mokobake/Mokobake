@@ -19,13 +19,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </p>
-
-
-### Github commits
-
-<a href="http://www.github.com/Mokobake"><img src="https://activity-graph.herokuapp.com/graph?username=Mokobake&bg_color=1a1b27&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### Github Profile Trophy 🏆
 
@@ -57,6 +51,6 @@
 
 ## My website 💬
 
-- [Scammer.cc](https://scammer.cc)
+- Currently None.
 
 ---
